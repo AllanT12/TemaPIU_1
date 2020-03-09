@@ -1,0 +1,7 @@
+C:\Users\Alin\Desktop\TemaPIU1\TemaPIU1\bin\Debug\TemaPIU1.exe.config
+C:\Users\Alin\Desktop\TemaPIU1\TemaPIU1\bin\Debug\TemaPIU1.exe
+C:\Users\Alin\Desktop\TemaPIU1\TemaPIU1\bin\Debug\TemaPIU1.pdb
+C:\Users\Alin\Desktop\TemaPIU1\TemaPIU1\obj\Debug\TemaPIU1.csprojAssemblyReference.cache
+C:\Users\Alin\Desktop\TemaPIU1\TemaPIU1\obj\Debug\TemaPIU1.csproj.CoreCompileInputs.cache
+C:\Users\Alin\Desktop\TemaPIU1\TemaPIU1\obj\Debug\TemaPIU1.exe
+C:\Users\Alin\Desktop\TemaPIU1\TemaPIU1\obj\Debug\TemaPIU1.pdb
